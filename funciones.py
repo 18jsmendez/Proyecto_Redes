@@ -130,5 +130,5 @@ def verificar_integridad(segmento):
     return True  # Placeholder, siempre devuelve True
 
 
-
+#ya subo como usar las funciones en el main :)
 

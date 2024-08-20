@@ -11,6 +11,9 @@ package ec.edu.espol.simulacion_tcp.ip;
 public class Simulacion_TCPIP {
 
     public static void main(String[] args) {
+
+        TXTGenerator txt = new TXTGenerator();
+        txt.recepcionData();
         
         Servidor server = new Servidor();
         

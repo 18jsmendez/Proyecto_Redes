@@ -1,0 +1,1 @@
+Segmento con formato incorrecto: hola mundo;0b894166d3336435c800bea36ff21b29eaa801a52f584c006c49289a0dcf6e2fque sueño colega;83897adf2a8bd87d25108ea570553c24f62c4a7688d8b2e56b44d1d274cad5cb

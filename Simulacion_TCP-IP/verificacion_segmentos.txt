@@ -1,5 +1,0 @@
-Resultado de la verificación de segmentos:
-Segmento 0 modificado: 1 chac
-Segmento 1 modificado: 3on
-Segmento 2 modificado: OAQlaJ
-Segmento 3 perdido.
